@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4zz4d-afr1d1&label=Profile%20views&color=0e75b6&style=flat" alt="s4zz4d-afr1d1" /> </p>
 
-- 🌱 I’m currently learning **Hacking,programming**
+- 🌱 I’m currently learning **EVERYTHING**
 
 - 👨‍💻 All of my projects are available at [S4ZZ4D-4FR1D1](S4ZZ4D-4FR1D1)
 
